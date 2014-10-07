@@ -1,0 +1,10 @@
+définition du mot mod (10 lignes)
+
+exemples célèbres, état de l'art (on peut gratter 10 pages... en écrivant vraiment espacé)
+
+impact sur les ventes, la durée de vie, la perception du jeu par l'utilisateur (15 à 20 pages)
+
+prérequis lors de la conception du jeu, impact sur le temps de déveoppement, la manière de faire, le confort pour les différents acteurs, etc (partie technique qui déchire 20 ou 25 pages)
+
+
+limite joueur / dev
